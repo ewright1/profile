@@ -1,0 +1,31 @@
+body {
+    font-family: "Arial";
+}
+
+.main-image {
+    border: solid 4px black;
+    border-radius: 50%;
+    height: 200px;
+    width: 250px
+}
+
+.inset-image {
+    border: solid 2px black;
+    height: 400px;
+    width: 600px
+}
+
+h1 {
+    background-color: #e2e2e2;
+    padding: 5px;
+}
+
+.new-bullet {
+    text-decoration: underline;
+    font: 40px;
+    font-weight: bold;
+}
+
+.section-title {
+    text-transform: uppercase;
+}
